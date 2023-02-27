@@ -16,9 +16,9 @@ var sourceFolder = Folder("C:\\ps\\src");
 var saveFolder = new Folder("C:\\ps\\out");
 //Fill color of the background
 var colorRef = new SolidColor;
-colorRef.rgb.red = 255;
-colorRef.rgb.green = 255;
-colorRef.rgb.blue = 255;
+colorRef.rgb.red = 0;
+colorRef.rgb.green = 0;
+colorRef.rgb.blue = 0;
 //Set blow to true to make the background transparent.
 var isTransparent = true;
 //Set below to true to use an image as background
